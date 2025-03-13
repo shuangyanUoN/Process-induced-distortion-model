@@ -7,9 +7,6 @@
 ## ============================================== ##
 pi = 3.14159265
 thickness = 0.25e-3                 # ply thickness [m]
-n_ply = 8                           # number of plies
-# list_orient =  n_ply*[0]          # unidirectional-ply [0]
-list_orient = [45,90,-45,0,0,-45,90,45]
 angle_degree = 135                  # angle in degree
 TubeRadius = 25e-3                  # outer radius of the part         
 depth = TubeRadius/2                # width of the part
