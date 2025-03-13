@@ -2,6 +2,7 @@
 
 # How to use the Abaqus model
 download all three files and put them in the same folder
+
 open CHILE_Curved_Part_3D.py, change work directory to the current folder
 change path of your subroutine file, that's the 'chile_addme.for' file
 run CHILE_Curved_Part_3D.py in Abaqus via 'File > Run script'
