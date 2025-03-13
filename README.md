@@ -3,7 +3,7 @@
 # How to use the Abaqus model
 1. Download all three files and put them in the same folder
 
-2. Open CHILE_Curved_Part_3D.py, change work directory to the current folder
+2. Open CHILE_Curved_Part_3D.py, change work directory to your current folder
 
 3. Change path of your subroutine file, that's the 'chile_addme.for' file
 
