@@ -13,6 +13,8 @@ Simplified model for the tool-part interaction in spring-in of L-shape composite
 
 4. Run CHILE_Curved_Part_3D.py in Abaqus via 'File > Run script'
 
+5. The simulation results can be compared with the experimental findings presented here: https://doi.org/10.1016/j.compositesa.2009.11.008 
+
 # How to use Matlab model
 1. Download all the files and put them in the same folder
 
@@ -20,4 +22,4 @@ Simplified model for the tool-part interaction in spring-in of L-shape composite
 
 2.2 For Eglass/polyester model, execute main file: main.m
 
-3. All the material properties are stored in ReadData.m
+3. The results can be compared with the numerical predictions presented here: https://doi.org/10.1177/002199839202600502
