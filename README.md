@@ -1,5 +1,5 @@
 # Process-induced-distortion-model
-Complementary paper can be found here:https://doi.org/10.1016/j.compstruct.2025.119022
+Complementary paper can be found here: https://doi.org/10.1016/j.compstruct.2025.119022
 
 Simplified model for the tool-part interaction in spring-in of L-shape composite laminates
 
