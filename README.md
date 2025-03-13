@@ -17,9 +17,6 @@ Simplified model for the tool-part interaction in spring-in of L-shape composite
 
 # How to use Matlab model
 1. Download all the files and put them in the same folder
-
-2.1 For AS4/8552 model, execute main file: process.m
-
-2.2 For Eglass/polyester model, execute main file: main.m
-
-3. The results can be compared with the numerical predictions presented here: https://doi.org/10.1177/002199839202600502
+2. For AS4/8552 model, execute main file: process.m
+3. For E-glass/polyester model, execute main file: main.m
+4. E-glass/polyester modelling results can be compared with the numerical predictions presented here: https://doi.org/10.1177/002199839202600502
