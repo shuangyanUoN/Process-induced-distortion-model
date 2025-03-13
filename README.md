@@ -6,13 +6,9 @@ Simplified model for the tool-part interaction in spring-in of L-shape composite
 
 # How to use the Abaqus model
 1. Download all three files and put them in the same folder
-
 2. Open CHILE_Curved_Part_3D.py, change work directory to your current folder
-
 3. Change path of your subroutine file, that's the 'chile_addme.for' file
-
 4. Run CHILE_Curved_Part_3D.py in Abaqus via 'File > Run script'
-
 5. The simulation results can be compared with the experimental findings presented here: https://doi.org/10.1016/j.compositesa.2009.11.008 
 
 # How to use Matlab model
